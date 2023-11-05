@@ -32,9 +32,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/agomezlucena/you-can-do-it.git</connection>
-        <developerConnection>scm:git:ssh://github.com:agomezlucena/you-can-do-it.git</developerConnection>
-        <url>https://github.com/agomezlucena/you-can-do-it.git</url>
+        <connection>scm:git:git://github.com/agomezlucena/merger.git</connection>
+        <developerConnection>scm:git:ssh://github.com:agomezlucena/merger.git</developerConnection>
+        <url>https://github.com/agomezlucena/merger.git</url>
     </scm>
 
     <distributionManagement>
