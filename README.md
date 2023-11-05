@@ -11,7 +11,7 @@ the input collections, with an O(n+m) modifiable algorithm.
 - ### Merge two collections of different types
     you can merge two collections of different types and execute your own
     logic using the same api but adding another two callbacks for mapping it
-    to the uncompleted versión of the final object.
+    to the uncompleted version of the final object.
 ## Usage
 ### Merging collections of the same type
 In this example we are going to merge two collections of strings, and first we are going to deletes duplicates and next we are going to print the resulting collection, and next we are going to concatenate the repeated strings and print the resulting collection too.
