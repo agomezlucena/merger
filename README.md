@@ -138,6 +138,6 @@ public class SellerServiceImp implements SellerService {
 if you want to collaborate with this project read [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Special thanks:
-I'd like to thank to the next projects:
+I'd like to thanks to the next projects:
   - Junit project that we use for generating test cases.
   - AssertJ that we use we also use for generating some difficult assertions.
