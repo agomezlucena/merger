@@ -52,13 +52,13 @@ public abstract class Merger<T, FC, SC> {
 
     /**
      * will set first collection normalizer function with a not null function that map FC to T.
-     * @param firstCollectionNormalizer a not null function that map FC -> T.
+     * @param firstCollectionNormalizer a not null function that map FC -&gt; T.
      * @return a Merger object with the firstCollectionNormalizedFunction set.
      */
     public abstract Merger<T, FC, SC> withFirstCollectionNormalizer(Function<FC, T> firstCollectionNormalizer);
     /**
      * will set first collection normalizer function with a not null function that map SC to T.
-     * @param secondCollectionNormalizer a not null function that map SC -> T.
+     * @param secondCollectionNormalizer a not null function that map SC -&gt; T.
      * @return a Merger object with the secondCollectionNormalizer set.
      */
     public abstract Merger<T, FC, SC> withSecondCollectionNormalizer(Function<SC, T> secondCollectionNormalizer);

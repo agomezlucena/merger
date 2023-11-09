@@ -13,7 +13,7 @@ import static io.github.agomezlucena.errors.ThrowingFunctions.throwIfNull;
  * with this code:</p>
  * <pre><code>CollectionMergers.ofSameType(Arrays.asList("a","b"))
  * .withSecondCollection(Arrays.asList("b","c"))
- * .withMergerFunction(it1,it2 -> it1)
+ * .withMergerFunction(it1,it2 -&gt; it1)
  * .merge()</code></pre>
  * @author Alejandro Gómez Lucena.
  */
