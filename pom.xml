@@ -10,6 +10,8 @@
 
     <name>${project.groupId}:${project.artifactId}</name>
 
+    <url>https://github.com/agomezlucena/merger</url>
+
     <description>
         a small library that simplify the process of merging two
         collections and complete data using a fluent API.
