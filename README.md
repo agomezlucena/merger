@@ -2,7 +2,7 @@
 
 # Merger
 Merger is a small library that provides you with a fluent api
-for merge two collections with a fluent API, and without modify
+for merge two collections without modify
 the input collections, with an O(n+m) modifiable algorithm.
 
 ## Functionalities:
